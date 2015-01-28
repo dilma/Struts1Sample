@@ -14,6 +14,6 @@ String name;
 String password;
 
 public static void main (String[] args){
-
+     String a;
 }
 }
