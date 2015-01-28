@@ -8,5 +8,7 @@ import org.apache.struts.action.Action;
 public class LoginAction extends Action {
 
 String hi;
+
+String name;
  
 }
