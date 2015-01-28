@@ -10,5 +10,7 @@ public class LoginAction extends Action {
 String hi;
 
 String name;
+
+String password;
  
 }
